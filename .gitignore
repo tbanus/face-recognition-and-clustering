@@ -1,0 +1,7 @@
+images/
+new_images/
+raw_images/
+model/
+__pycache__/
+.venv
+.vscode
